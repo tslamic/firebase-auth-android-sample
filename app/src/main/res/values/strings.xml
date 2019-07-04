@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dummy Auth</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="request_otp">Send</string>
+    <string name="login">Log In</string>
+    <string name="signOut">Sign Out</string>
+    <string name="otp">Enter Password</string>
+    <string name="auth">You are authenticated as %s</string>
+</resources>
